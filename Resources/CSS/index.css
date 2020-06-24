@@ -2,13 +2,44 @@ html {
   font-size: 100%;
 }
 
-header {
-  background-image: url("./Resources/Images/pattern.jpeg");
+body {
+  font-family: sans-serif;
+  font-family: Helvetica;
 }
 
 h1 {
+  background-color: lightpink;
+  background-image: url("../Images/pattern.jpeg");
   color: khaki;
-  font-family: Helvetica;
-  font-size: 5.55rem;
+  font-size: 6.2rem;
   font-weight: bold;
-`}
+  text-align: center;
+}
+
+.item h2 {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+
+#Brushes {
+  background-color: mediumspringgreen;
+}
+
+#Frames {
+  background-color: lightcoral;
+}
+
+#Paint {
+  background-color: skyblue;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+.price {
+  color: blue;
+  font-weight: bold;
+}
