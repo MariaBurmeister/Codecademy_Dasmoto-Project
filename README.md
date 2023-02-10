@@ -1,5 +1,9 @@
-# Code-Cademy_-Dasmoto-Project
-This is a Codecademy html/CSS practice project.
+# Codcademy_Dasmoto-Project
+This is a Codecademy practice project.
 
+### Description:
+Project consists on the implementation of a design provided by Codecademy.
 
-Design was provided by Codecademy, which I implemented.
+### Technologies 
+  - HTML
+  - CSS
